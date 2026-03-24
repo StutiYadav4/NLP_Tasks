@@ -7,14 +7,14 @@ This repository contains implementations for **CSL 7640: Natural Language Unders
 
 ---
 
-## 📁 Files
+## Files
 
 * `problem_1.ipynb` → Word Embeddings (CBOW & Skip-gram)
 * `problem_2.ipynb` → RNN, BiLSTM, Attention models
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Install required libraries:
 
@@ -24,7 +24,7 @@ pip install numpy nltk matplotlib scikit-learn torch
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 🔹 Problem 1 (Word Embeddings)
 
