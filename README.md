@@ -55,7 +55,7 @@ Run all cells sequentially to:
 
 ---
 
-## 📌 Notes
+## Notes
 
 * All implementations are done from scratch
 * No high-level NLP libraries (e.g., Gensim) are used
