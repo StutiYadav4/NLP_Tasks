@@ -1,4 +1,4 @@
-# NLP Assignment 2 — Word Embeddings & Name Generation
+# NLU Assignment 2 — Word Embeddings & Name Generation
 
 This repository contains implementations for **CSL 7640: Natural Language Understanding (Assignment 2)**.
 
